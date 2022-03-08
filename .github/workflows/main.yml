@@ -3,9 +3,9 @@ on:
   push:
     branches: [ main ]
     
-  schedule:
-    - cron: ""0 8 * * *" # 9 a.m. every day UTC"
-      branches: [ main ]
+  # schedule:
+  #   - cron: ""0 8 * * *" # 9 a.m. every day UTC"
+  #     branches: [ main ]
 
   workflow_dispatch:
 
