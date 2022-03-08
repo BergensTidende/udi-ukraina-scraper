@@ -10,6 +10,7 @@ lxml = "*"
 matplotlib = "*"
 requests = "*"
 datetime = "*"
+jupyter = "*"
 
 [dev-packages]
 
