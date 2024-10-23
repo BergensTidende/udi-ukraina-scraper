@@ -5,12 +5,12 @@ name = "pypi"
 
 [packages]
 jupyterlab = "*"
+jupyter = "*"
 pandas = "*"
 lxml = "*"
 matplotlib = "*"
 requests = "*"
 datetime = "*"
-jupyter = "*"
 
 [dev-packages]
 
